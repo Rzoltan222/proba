@@ -129,3 +129,8 @@ def paros_paratlan2():
         print("A szám a 'B' csoportban van.")
     else:
         print("A szám a 'C' csoportban van.")
+
+
+def hellowold():
+    print("Hello Wold")
+    
