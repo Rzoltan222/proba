@@ -119,3 +119,13 @@ def teglalap():
         normalis = False
     if normalis:
         print("Ez egy egészen normális téglalap.")
+
+
+def paros_paratlan2():
+    szam = float(input("Kérek egy számot!\n"))
+    if szam % 2 == 0 and szam >= -100 and szam <= 100:
+        print("A szám az 'A' csoportban van.")
+    elif szam % 2 != 0 and szam >= -200 and szam <= 200:
+        print("A szám a 'B' csoportban van.")
+    else:
+        print("A szám a 'C' csoportban van.")
