@@ -132,5 +132,4 @@ def paros_paratlan2():
 
 
 def hellowold():
-    print("Hello Wold")
-    
+    print("Hello World")

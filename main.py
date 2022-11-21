@@ -1,4 +1,4 @@
 import metodusok
 
 
-metodusok.teglalap()
+metodusok.hellowold()
